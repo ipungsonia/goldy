@@ -3,5 +3,5 @@ Aplikasi web untuk mendeteksi harga emas dan merekomendasi waktu yang tepat untu
 
 Kelompok Bejo
 Ketua Kelompok: Vallentina Wahyu F
-Anggota 1: Farhan Maulana F
+Anggota 1: Farhan Maulana F - 20/460544/TK/51133
 Anggota 2: Ipung Sonia Faradhisma - 20/463603/TK/51595

@@ -28,13 +28,22 @@ Menjadi sarana bagi calon investor dalam mengetahui perkiraan waktu yang tepat u
 ## Pengguna potensial
 Para investor dan kebutuhan untuk mengetahui waktu yang tepat dalam melakukan investasi
 ## Use case diagram
-(drag aja image ke sini)
+![image](https://user-images.githubusercontent.com/79146280/223741348-88567d7a-175f-49b6-a759-b166f141f29a.png)
+
 ## Functional requirement
 
 ## Entity relationship diagram
 (drag aja image ke sini)
+
 ## Low-fidelity Wireframe
-(drag aja image ke sini)
+![Landing Page](https://user-images.githubusercontent.com/79146280/223740467-efec0a8f-8155-4f76-a3d1-3d6ba17a1f9b.png)
+
+![Tips berinvestasi](https://user-images.githubusercontent.com/79146280/223740815-4eebb45b-e836-4677-8c2a-3907993b5f33.png)
+
+![Prediksi Harga](https://user-images.githubusercontent.com/79146280/223740825-d60561b0-9938-4602-8de1-fc8b97eabc90.png)
+
+![Rekomendasi waktu investasi](https://user-images.githubusercontent.com/79146280/223740830-00ac81f2-88c4-4231-bdd9-7f0f6d9fc5f2.png)
+
 ## Gantt-Chart
 ![Screenshot 2023-03-08 110306](https://user-images.githubusercontent.com/79226247/223616706-2dcc9fda-d3a7-4c9f-87f0-7c99690b071a.png)
 

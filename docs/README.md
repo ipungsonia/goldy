@@ -31,9 +31,13 @@ Para investor dan kebutuhan untuk mengetahui waktu yang tepat dalam melakukan in
 ![image](https://user-images.githubusercontent.com/79146280/223741348-88567d7a-175f-49b6-a759-b166f141f29a.png)
 
 ## Functional requirement
+![image](https://user-images.githubusercontent.com/79146280/223836460-217ace2c-7625-4051-9e7c-f09087f08d33.png)
+![image](https://user-images.githubusercontent.com/79146280/223836647-85b30d64-cf62-404b-b211-a4b640ab14b5.png)
+![image](https://user-images.githubusercontent.com/79146280/223836815-d56d7982-ac6b-452a-aa52-94974db2db72.png)
+![image](https://user-images.githubusercontent.com/79146280/223836912-faba546a-00e8-4491-ad99-44687cf523a3.png)
 
 ## Entity relationship diagram
-(drag aja image ke sini)
+![image](https://user-images.githubusercontent.com/79146280/223835993-7ca4870a-ddb3-4f23-a600-8a383b85bd61.png)
 
 ## Low-fidelity Wireframe
 ![Landing Page](https://user-images.githubusercontent.com/79146280/223740467-efec0a8f-8155-4f76-a3d1-3d6ba17a1f9b.png)

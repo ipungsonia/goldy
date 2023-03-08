@@ -6,6 +6,8 @@
 <h3 align="center">Senior Project Teknologi Informasi 2023</h3>
 <p align="center">Departemen Teknologi Elektro dan Teknologi Informasi, Fakultas Teknik, Universitas Gadjah Mada</p>
 
+****
+
 ## Nama produk
 Goldy
 ## Jenis produk
@@ -18,3 +20,21 @@ Mendeteksi harga emas dan merekomendasi waktu yang tepat untuk investasi
 ![Screenshot 2023-03-08 103630](https://user-images.githubusercontent.com/79226247/223613399-e900eda9-fadf-4655-9ae7-40709f591fc4.png)
 ![Screenshot 2023-03-08 103636](https://user-images.githubusercontent.com/79226247/223613408-2a40d9ea-f345-40de-9096-6b50f2102032.png)
 ![Screenshot 2023-03-08 103643](https://user-images.githubusercontent.com/79226247/223613418-bcb4ad06-db91-4d4c-a79a-24fe18839e5b.png)
+
+****
+
+## Tujuan produk
+Menjadi sarana bagi calon investor dalam mengetahui perkiraan waktu yang tepat untuk membeli emas dan melakukan investasi
+## Pengguna potensial
+Para investor dan kebutuhan untuk mengetahui waktu yang tepat dalam melakukan investasi
+## Use case diagram
+(drag aja image ke sini)
+## Functional requirement
+
+## Entity relationship diagram
+(drag aja image ke sini)
+## Low-fidelity Wireframe
+(drag aja image ke sini)
+## Gantt-Chart
+![Screenshot 2023-03-08 110306](https://user-images.githubusercontent.com/79226247/223616706-2dcc9fda-d3a7-4c9f-87f0-7c99690b071a.png)
+

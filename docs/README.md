@@ -47,7 +47,5 @@ Para investor dan kebutuhan untuk mengetahui waktu yang tepat dalam melakukan in
 
 ![Rekomendasi waktu investasi](https://user-images.githubusercontent.com/79146280/223740830-00ac81f2-88c4-4231-bdd9-7f0f6d9fc5f2.png)
 
-<details>
-  <summary><h2>Gantt-Chart</h2></summary>
-  ![Screenshot 2023-03-08 110306](https://user-images.githubusercontent.com/79226247/223616706-2dcc9fda-d3a7-4c9f-87f0-7c99690b071a.png)
-</details>
+## Gantt-Chart
+[Screenshot 2023-03-08 110306](https://user-images.githubusercontent.com/79226247/223616706-2dcc9fda-d3a7-4c9f-87f0-7c99690b071a.png)

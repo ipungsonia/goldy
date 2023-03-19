@@ -39,7 +39,7 @@ Para investor dan kebutuhan untuk mengetahui waktu yang tepat dalam melakukan in
 ![image](https://user-images.githubusercontent.com/79146280/223835993-7ca4870a-ddb3-4f23-a600-8a383b85bd61.png)
 
 ## Low-fidelity Wireframe
-![Landing Page](https://user-images.githubusercontent.com/79146280/223740467-efec0a8f-8155-4f76-a3d1-3d6ba17a1f9b.png =100)
+![Landing Page](https://user-images.githubusercontent.com/79146280/223740467-efec0a8f-8155-4f76-a3d1-3d6ba17a1f9b.png){:height="36px" width="36px"}
 
 ![Tips berinvestasi](https://user-images.githubusercontent.com/79146280/223740815-4eebb45b-e836-4677-8c2a-3907993b5f33.png)
 

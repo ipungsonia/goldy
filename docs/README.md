@@ -27,10 +27,8 @@ Mendeteksi harga emas dan merekomendasi waktu yang tepat untuk investasi
 Menjadi sarana bagi calon investor dalam mengetahui perkiraan waktu yang tepat untuk membeli emas dan melakukan investasi
 ## Pengguna potensial
 Para investor dan kebutuhan untuk mengetahui waktu yang tepat dalam melakukan investasi
-<details>
-  <summary>## Use case diagram</summary>
-  ![image](https://user-images.githubusercontent.com/79146280/223741348-88567d7a-175f-49b6-a759-b166f141f29a.png)
-</details>
+<summary>Use case diagram</summary>
+![image](https://user-images.githubusercontent.com/79146280/223741348-88567d7a-175f-49b6-a759-b166f141f29a.png)
 ## Functional requirement
 ![image](https://user-images.githubusercontent.com/79146280/223836460-217ace2c-7625-4051-9e7c-f09087f08d33.png)
 ![image](https://user-images.githubusercontent.com/79146280/223836647-85b30d64-cf62-404b-b211-a4b640ab14b5.png)

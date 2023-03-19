@@ -28,8 +28,8 @@ Menjadi sarana bagi calon investor dalam mengetahui perkiraan waktu yang tepat u
 ## Pengguna potensial
 Para investor dan kebutuhan untuk mengetahui waktu yang tepat dalam melakukan investasi
 <details>
-<summary>## Use case diagram</summary>
-![image](https://user-images.githubusercontent.com/79146280/223741348-88567d7a-175f-49b6-a759-b166f141f29a.png)
+  <summary>## Use case diagram</summary>
+  ![image](https://user-images.githubusercontent.com/79146280/223741348-88567d7a-175f-49b6-a759-b166f141f29a.png)
 </details>
 ## Functional requirement
 ![image](https://user-images.githubusercontent.com/79146280/223836460-217ace2c-7625-4051-9e7c-f09087f08d33.png)
